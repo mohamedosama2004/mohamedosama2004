@@ -65,11 +65,17 @@ They include real-world frontend projects built with **React, JavaScript, Tailwi
   <a href="https://www.linkedin.com/in/mohammed-osama-965612263/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  <a href="https://my-portfolio-mac-os.vercel.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40"/>
-  </a>
+  
   <a href="mailto:mrosos2004@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+  </a>
+</p>
+
+---
+## My Portfolio 
+<p>
+  <a href="https://my-portfolio-mac-os.vercel.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40"/>
   </a>
 </p>
 
