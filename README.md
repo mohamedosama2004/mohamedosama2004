@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Nft Coding GIF.gif" alt="Profile Banner" width="100%" />
+  <img src="./Nft Coding GIF.gif" alt="Profile Banner" width="70%" />
 </p>
 
 # 👋 Hi, I'm Mohamed Osama
