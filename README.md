@@ -28,13 +28,9 @@ I’m a passionate Frontend Developer focused on building modern, responsive, an
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
 </p>
 
-### 🧠 State Management
-<p align="left">
-  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.svg" width="40"/>
-</p>
+
 
 ### 🛠 Tools & Libraries
 <p align="left">
