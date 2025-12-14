@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Nft Coding GIF.gif" alt="Profile Banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm Mohamed Osama
 
 🎓 Computer Science & Artificial Intelligence Student  
