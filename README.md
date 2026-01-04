@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Mohamed%20Osama&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20CS%20%26%20AI%20Student&descAlignY=55&descSize=18" width="100%"/>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Osama;Frontend+Developer;CS+%26+AI+Student" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://github.com/mohamedosama2004">
@@ -91,10 +91,6 @@ fun_fact: I build things through real-world projects 🚀
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
-</p>
 
 <p align="center">
   ⭐ <strong>Feel free to explore my repositories and connect with me!</strong> ⭐
