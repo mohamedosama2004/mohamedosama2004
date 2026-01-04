@@ -2,79 +2,117 @@
   <img src="./Nft Coding GIF.gif" alt="Profile Banner" width="70%" />
 </p>
 
-# 👋 Hi, I'm Mohamed Osama
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Osama;Frontend+Developer;CS+%26+AI+Student" alt="Typing SVG" />
+</h1>
 
-🎓 Computer Science & Artificial Intelligence Student  
-💻 Frontend Developer  
-
-I’m a passionate Frontend Developer focused on building modern, responsive, and scalable web applications using React and modern JavaScript tools.
+<p align="center">
+  <a href="https://github.com/mohamedosama2004">
+    <img src="https://img.shields.io/github/followers/mohamedosama2004?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mohamedosama2004&label=Profile%20views&color=6C63FF&style=flat" alt="Profile Views"/>
+</p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Studying at the Faculty of Computers & Artificial Intelligence  
-- 🌱 Currently improving my skills in **React, Advanced JavaScript, and Frontend Architecture**
-- 🧠 Interested in clean UI, performance, and maintainable code
-- 💪 Always learning through real-world projects
+## 🧑‍💻 About Me
+
+```yaml
+name: Mohamed Osama
+role: Frontend Developer
+education: Computer Science & Artificial Intelligence Student
+location: Egypt
+currently_learning: ["React", "Advanced JavaScript", "Frontend Architecture"]
+interests: ["Clean UI", "Performance Optimization", "Maintainable Code"]
+fun_fact: I build things through real-world projects 🚀
+```
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### 🌐 Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
+      <br><strong>HTML5</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
+      <br><strong>CSS3</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
+      <br><strong>C++</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+      <br><strong>Java</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+      <br><strong>Python</strong>
+    </td>
+  </tr>
+</table>
+
+### ⚛️ Frontend & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,git,github,npm,vscode&theme=dark" alt="Skills"/>
 </p>
 
-### ⚛️ Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40"/>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedosama2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedosama2004&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="48%" alt="GitHub Streak"/>
 </p>
 
-
-
-### 🛠 Tools & Libraries
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedosama2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" width="40%" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
-Check out my pinned repositories below ⬇️  
-They include real-world frontend projects built with **React, JavaScript, Tailwind, and modern tools**.
 
-
+<p align="center">
+  ⬇️ Check out my pinned repositories below ⬇️<br/>
+  <em>Real-world frontend projects built with <strong>React, JavaScript, Tailwind, and modern tools</strong></em>
+</p>
 
 ---
 
 ## 🌍 Connect With Me
-<p align="left">
+
+<p align="center">
   <a href="https://github.com/mohamedosama2004" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/mohammed-osama-965612263/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
   <a href="mailto:mrosos2004@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
-
----
-## My Portfolio 
-<p>
   <a href="https://my-portfolio-mac-os.vercel.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40"/>
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  ⭐ <strong>Feel free to explore my repositories and connect with me!</strong> ⭐
+</p>
