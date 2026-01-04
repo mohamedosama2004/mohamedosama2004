@@ -49,11 +49,7 @@ I’m a passionate Frontend Developer focused on building modern, responsive, an
 Check out my pinned repositories below ⬇️  
 They include real-world frontend projects built with **React, JavaScript, Tailwind, and modern tools**.
 
----
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedosama2004&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedosama2004&layout=compact&theme=react)
 
 ---
 
