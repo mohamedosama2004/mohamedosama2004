@@ -27,6 +27,7 @@ fun_fact: I build things through real-world projects 🚀
 
 ## 🛠️ Tech Stack
 
+### 🌐 Languages
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -40,6 +41,10 @@ fun_fact: I build things through real-world projects 🚀
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
       <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
+      <br><strong>TypeScript</strong>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
@@ -56,10 +61,39 @@ fun_fact: I build things through real-world projects 🚀
   </tr>
 </table>
 
-### ⚛️ Frontend & Tools
+### ⚛️ Frontend & Frameworks
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/>
+      <br><strong>Next.js</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite"/>
+      <br><strong>Vite</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind"/>
+      <br><strong>Tailwind</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap"/>
+      <br><strong>Bootstrap</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="Sass"/>
+      <br><strong>Sass</strong>
+    </td>
+  </tr>
+</table>
 
+### 🛠 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,git,github,npm,vscode&theme=dark" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode&theme=dark" alt="Tools"/>
 </p>
 
 ---
