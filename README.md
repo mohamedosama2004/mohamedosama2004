@@ -91,6 +91,28 @@ fun_fact: I build things through real-world projects 🚀
   </tr>
 </table>
 
+### 🔄 State Management & Routing
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" height="48" alt="Redux"/>
+      <br><strong>Redux</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://zustand-demo.pmnd.rs/favicon.ico" width="48" height="48" alt="Zustand"/>
+      <br><strong>Zustand</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://react-query-v3.tanstack.com/_next/static/images/logo-7a7896631260eebffcb031765854375b.svg" width="48" height="48" alt="React Query"/>
+      <br><strong>React Query</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://tanstack.com/favicon.ico" width="48" height="48" alt="TanStack Router"/>
+      <br><strong>TanStack Router</strong>
+    </td>
+  </tr>
+</table>
+
 ### 🛠 Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,npm,vscode&theme=dark" alt="Tools"/>
