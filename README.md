@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="./Nft Coding GIF.gif" alt="Profile Banner" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Mohamed%20Osama&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20CS%20%26%20AI%20Student&descAlignY=55&descSize=18" width="100%"/>
 </p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Osama;Frontend+Developer;CS+%26+AI+Student" alt="Typing SVG" />
-</h1>
 
 <p align="center">
   <a href="https://github.com/mohamedosama2004">
@@ -64,19 +60,6 @@ fun_fact: I build things through real-world projects 🚀
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,git,github,npm,vscode&theme=dark" alt="Skills"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedosama2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedosama2004&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="48%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedosama2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" width="40%" alt="Top Languages"/>
 </p>
 
 ---
